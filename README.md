@@ -24,3 +24,13 @@ To view this website locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Pr1sinha/aws-webapp.git
+2. Navigate to the project directory:
+   ```bash
+   cd aws-webapp
+3. Open index.html in your web browser.
+
+## Deployment
+This website is hosted on AWS EC2. You can view it live at: http://13.53.205.215.
+
+## Contact
+For inquiries, please reach out to me at sinhapragya49@gmail.com.
