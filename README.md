@@ -19,3 +19,8 @@ This is my personal website where I share information about myself, my backgroun
 - A simple, responsive layout.
 - Information about my education, skills, and projects.
 - Contact information.
+## How to Run Locally
+To view this website locally, follow these steps:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Pr1sinha/aws-webapp.git
